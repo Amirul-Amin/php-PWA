@@ -1,0 +1,23 @@
+{
+	"name":"Web PWA",
+	"short_name":"PWA",
+    "id":"/pwa/index.html",
+	"start_url":"/pwa/index.html",
+	"display":"standalone",
+	"background_color":"#b32502",
+	"theme_color":"black",
+	"scope": ".",
+	"description":"Web PWA",
+	"icons":[
+	{
+	"src":"images/icon-192x192.png",					
+	"sizes":"192x192",
+	"type":"image/png"
+	},
+	{
+	"src":"images/icon-512x512.png",
+	"sizes":"512x512",
+	"type":"image/png"
+	}
+]
+}
